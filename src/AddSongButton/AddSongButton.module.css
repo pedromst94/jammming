@@ -1,0 +1,22 @@
+.addButton {
+    background-color: rgb(29, 185, 84);
+    color: white;
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+    border: 1px solid white;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 1rem;
+}
+
+.addButton:hover {
+    cursor: pointer;
+}
+
+.addButton:active {
+    margin-top: 3px;
+    margin-left: 3px;
+}
